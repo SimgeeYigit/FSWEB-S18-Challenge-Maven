@@ -9,7 +9,6 @@ import com.workintech.fswebs18challengemaven.repository.CardRepository;
 import com.workintech.fswebs18challengemaven.repository.CardRepositoryImpl;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.TypedQuery;
-import org.checkerframework.checker.units.qual.C;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
